@@ -1,0 +1,10 @@
+gTTS==2.2.4
+keras==2.8.0
+matplotlib==3.5.3
+nltk==3.7
+numpy==1.22.4
+opencv_python_headless==4.6.0.66
+pyttsx3==2.90
+scikit_learn==1.1.3
+tensorflow==2.8.2
+textblob==0.17.1
