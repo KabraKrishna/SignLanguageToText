@@ -1,6 +1,5 @@
-# A machine learning and computer vision based approach to convert Sign language to Sppech / text
-
------------------------------------------------------------------------
+# Sign Language To Speach / Text
+### A machine learning and computer vision based approach to convert Sign language to Speach / Text
 
 ## Dependencies
 * python v3.10.x
