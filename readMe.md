@@ -9,6 +9,8 @@ https://mavsuta-my.sharepoint.com/:f:/r/personal/vxc0340_mavs_uta_edu/Documents/
 
 ## Link for the model.h5 file 
 download and save the model.h5 file from the following link in the same directory before running the code
+https://mavsuta-my.sharepoint.com/:u:/r/personal/vxc0340_mavs_uta_edu/Documents/model.h5?csf=1&web=1&e=Y2ynAj
+
 
 ## Description:
 Our aim for developing this research is that it may be deployed as a mobile application in the future for persons who cannot speak, acting as a transulator.
